@@ -13,6 +13,7 @@ This project was made with:
 + [ReactJS](https://reactjs.org)
 + [Vite](https://vitejs.dev)
 + [styled-components](https://styled-components.com/)
++ [phosphor-icons](https://phosphoricons.com/)
 
 
 ## Getting Started <a name = "getting_started"></a>
