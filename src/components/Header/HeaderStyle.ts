@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const StyledHeader = styled.header`
   padding: 2rem 4rem 0;
@@ -9,7 +9,7 @@ export const StyledHeader = styled.header`
   width: 100%;
 
   .InfoSetting {
-    width: 7.5rem;
+    width: 10rem;
     display: flex;
     justify-content: space-between;
   }
